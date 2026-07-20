@@ -3,7 +3,7 @@
     padding: 0vw;
 }
 .body {
-    background-color:yellow;
+    background-color:goldenrod;
     color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     line-height: 1.5;
@@ -43,7 +43,7 @@ img {
 }
 /*Contact me;*/
 ul{
-    background-color: blue;
+    background-color: rgb(0, 255, 30);
     padding: 0%;
     color:blueviolet;
     text-decoration: dotted;
