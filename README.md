@@ -1,7 +1,9 @@
 # photography-website
-I have captured more beautifull nature pictures i have in my cameras and others.
+I have captured more beautifull nature and animals pictures i have in my cameras and others.
 ## Features
-homepage
+Homepage 
+
+
 ## Technologies used
 HTML
 CSS
